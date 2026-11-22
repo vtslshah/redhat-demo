@@ -21,7 +21,7 @@ function formatPrice(float $amount): string
 }
 
 // ---------- Data ----------
-$pageTitle = 'Sample PHP Page';
+$pageTitle = 'Sample PHP Page version2';
 $today     = date('l, d F Y');
 
 $products = [
