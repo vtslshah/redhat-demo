@@ -59,7 +59,7 @@ $time    = date('Y-m-d H:i:s T');
 </head>
 <body>
     <div class="card">
-        <span class="badge">GDG Pune Live Demo version 2.0 </span>
+        <span class="badge">GDG Pune Live Demo version 2.0 By Vatsal shah </span>
         <h1>Hello, OpenShift! 🚀</h1>
         <p class="subtitle">Deployed directly from Git via Source-to-Image (S2I)</p>
         
